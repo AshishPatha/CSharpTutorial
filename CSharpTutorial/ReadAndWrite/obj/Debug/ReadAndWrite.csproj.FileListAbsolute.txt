@@ -1,0 +1,9 @@
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.pdb
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csprojResolveAssemblyReference.cache
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+C:\Ashish\Projects\CSharpClasses\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.pdb
+C:\Ashish\Projects\CSharpClasses\CSharpTutorial\CSharpTutorial\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+C:\Ashish\Projects\CSharpClasses\CSharpTutorial\CSharpTutorial\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+C:\Ashish\Projects\CSharpClasses\CSharpTutorial\CSharpTutorial\ReadAndWrite\obj\Debug\ReadAndWrite.pdb
